@@ -21,8 +21,8 @@ setup(name='chumpy',
     license='MIT',
     install_requires=[
         "numpy>=1.18",
-        "scipy">=0.13.0,
-        "six">=1.11.0,
+        "scipy>=0.13.0",
+        "six>=1.11.0",
     ],
 
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers

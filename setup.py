@@ -20,8 +20,8 @@ setup(name='chumpy',
     description='chumpy',
     license='MIT',
     install_requires=[
-        "numpy>=1.23.5",
-        "scipy>=1.12.0",
+        "numpy==1.23.5",
+        "scipy==1.12.0",
         "six>=1.11.0",
     ],
 
